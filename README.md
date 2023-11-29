@@ -1,1 +1,1 @@
-# react-webpack-template
+# battleship-react
